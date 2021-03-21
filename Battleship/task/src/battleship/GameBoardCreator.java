@@ -1,6 +1,6 @@
 package battleship;
 
-public class GameBoard {
+public class GameBoardCreator {
 
     public String[][] createBoard() {
         String[][] gameBoard = new String[10][10];
